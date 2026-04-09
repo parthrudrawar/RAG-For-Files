@@ -1,0 +1,3744 @@
+{
+  "data": [
+    {
+      "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/58589185/Project+Setup",
+      "links": [],
+      "related_sections": [
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/people/6007267edfb0c700692285fb?ref=confluence&src=profilecard"
+        },
+        {
+          "title": "Inferyx Installation Manual / Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/overview?homepageId=163927"
+        },
+        {
+          "title": "Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/58589185/Project+Setup"
+        },
+        {
+          "title": "Steps",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/58654721/Steps"
+        },
+        {
+          "title": "Inferyx User Manual",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229479/Inferyx+User+Manual"
+        },
+        {
+          "title": "Inferyx Installation Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229472/Inferyx+Installation+Guide"
+        },
+        {
+          "title": "Inferyx Release Notes",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/12058625/Inferyx+Release+Notes"
+        },
+        {
+          "title": "Atlassian Cookies & Tracking Notice",
+          "url": "https://www.atlassian.com/legal/cookies"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages"
+        },
+        {
+          "title": "360570",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/360570"
+        },
+        {
+          "title": "Content Comparison",
+          "url": "https://inferyx.atlassian.net/wiki/pages/diffpagesbyversion.action?pageId=58589185&selectedPageVersions=3&selectedPageVersions=4"
+        },
+        {
+          "title": "Master Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298975240/Master+Deployment+Guide"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/templates"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki"
+        }
+      ]
+    },
+    {
+      "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/58654721/Steps",
+      "links": [],
+      "related_sections": [
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/people/6007267edfb0c700692285fb?ref=confluence&src=profilecard"
+        },
+        {
+          "title": "Inferyx Installation Manual / Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/overview?homepageId=163927"
+        },
+        {
+          "title": "Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/58589185/Project+Setup"
+        },
+        {
+          "title": "Steps",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/58654721/Steps"
+        },
+        {
+          "title": "Inferyx User Manual",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229479/Inferyx+User+Manual"
+        },
+        {
+          "title": "Inferyx Installation Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229472/Inferyx+Installation+Guide"
+        },
+        {
+          "title": "Inferyx Release Notes",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/12058625/Inferyx+Release+Notes"
+        },
+        {
+          "title": "Atlassian Cookies & Tracking Notice",
+          "url": "https://www.atlassian.com/legal/cookies"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages"
+        },
+        {
+          "title": "360570",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/360570"
+        },
+        {
+          "title": "Content Comparison",
+          "url": "https://inferyx.atlassian.net/wiki/pages/diffpagesbyversion.action?pageId=58654721&selectedPageVersions=7&selectedPageVersions=8"
+        },
+        {
+          "title": "Master Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298975240/Master+Deployment+Guide"
+        },
+        {
+          "title": "introvert.com",
+          "url": "http://run.sh"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/templates"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki"
+        }
+      ]
+    },
+    {
+      "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229472/Inferyx+Installation+Guide",
+      "links": [],
+      "related_sections": [
+        {
+          "title": "Install and Configure Mongo",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65646/Install+and+Configure+Mongo"
+        },
+        {
+          "title": "360570",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/360570"
+        },
+        {
+          "title": "Installation and Configure Studio 3T",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/300122113/Installation+and+Configure+Studio+3T"
+        },
+        {
+          "title": "Inferyx Installation Manual / Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/overview?homepageId=163927"
+        },
+        {
+          "title": "Install and Configure Neo4J",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229451/Install+and+Configure+Neo4J"
+        },
+        {
+          "title": "Install and Configure Camunda",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216432641/Install+and+Configure+Camunda"
+        },
+        {
+          "title": "Authentication Configurations",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/6193153/Authentication+Configurations"
+        },
+        {
+          "title": "Content Comparison",
+          "url": "https://inferyx.atlassian.net/wiki/pages/diffpagesbyversion.action?pageId=229472&selectedPageVersions=4&selectedPageVersions=5"
+        },
+        {
+          "title": "Install and Configure Snowflake (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/222986241/Install+and+Configure+Snowflake+Optional"
+        },
+        {
+          "title": "Inferyx Release Notes",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/12058625/Inferyx+Release+Notes"
+        },
+        {
+          "title": "Atlassian Cookies & Tracking Notice",
+          "url": "https://www.atlassian.com/legal/cookies"
+        },
+        {
+          "title": "Master Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298975240/Master+Deployment+Guide"
+        },
+        {
+          "title": "Install and Configure Tomcat 9.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65639/Install+and+Configure+Tomcat+9.0"
+        },
+        {
+          "title": "Install and Configure Java 8 ,11,17,21",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229444/Install+and+Configure+Java+8+11+17+21"
+        },
+        {
+          "title": "Tech Stack",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65559/Tech+Stack"
+        },
+        {
+          "title": "Installation Checklist",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/164053/Installation+Checklist"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/people/6007267edfb0c700692285fb?ref=confluence&src=profilecard"
+        },
+        {
+          "title": "Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/58589185/Project+Setup"
+        },
+        {
+          "title": "Install and Configure Dremio (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/180060163/Install+and+Configure+Dremio+Optional"
+        },
+        {
+          "title": "Inferyx User Manual",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229479/Inferyx+User+Manual"
+        },
+        {
+          "title": "Inferyx Installation Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229472/Inferyx+Installation+Guide"
+        },
+        {
+          "title": "Install and Configure Mssql (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/176324609/Install+and+Configure+Mssql+Optional"
+        },
+        {
+          "title": "Install and Configure JupyterHub 3.1.1",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298844161/Install+and+Configure+JupyterHub+3.1.1"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/templates"
+        },
+        {
+          "title": "Install and Configure Mysql",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33287/Install+and+Configure+Mysql"
+        },
+        {
+          "title": "Project Setup  and Docker Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/297467917/Project+Setup+and+Docker+Deployment+Guide"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages"
+        },
+        {
+          "title": "Install and Configure Kafka (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298713149/Install+and+Configure+Kafka+Optional"
+        },
+        {
+          "title": "Install and Configure Tomcat 10",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/441581570/Install+and+Configure+Tomcat+10"
+        },
+        {
+          "title": "Install or Upgrade Mongo 7.x",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/288948225/Install+or+Upgrade+Mongo+7.x"
+        },
+        {
+          "title": "Inferyx Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/43057153/Inferyx+Project+Setup"
+        },
+        {
+          "title": "Install and Configure Python (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33294/Install+and+Configure+Python+Optional"
+        },
+        {
+          "title": "Install and Configure Kubeflow 1.26.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/289800193/Install+and+Configure+Kubeflow+1.26.0"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki"
+        }
+      ]
+    },
+    {
+      "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65559/Tech+Stack",
+      "links": [],
+      "related_sections": [
+        {
+          "title": "Install and Configure Mongo",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65646/Install+and+Configure+Mongo"
+        },
+        {
+          "title": "360570",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/360570"
+        },
+        {
+          "title": "Installation and Configure Studio 3T",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/300122113/Installation+and+Configure+Studio+3T"
+        },
+        {
+          "title": "Inferyx Installation Manual / Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/overview?homepageId=163927"
+        },
+        {
+          "title": "Install and Configure Neo4J",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229451/Install+and+Configure+Neo4J"
+        },
+        {
+          "title": "Install and Configure Camunda",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216432641/Install+and+Configure+Camunda"
+        },
+        {
+          "title": "Authentication Configurations",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/6193153/Authentication+Configurations"
+        },
+        {
+          "title": "Install and Configure Snowflake (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/222986241/Install+and+Configure+Snowflake+Optional"
+        },
+        {
+          "title": "Inferyx Release Notes",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/12058625/Inferyx+Release+Notes"
+        },
+        {
+          "title": "Atlassian Cookies & Tracking Notice",
+          "url": "https://www.atlassian.com/legal/cookies"
+        },
+        {
+          "title": "Master Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298975240/Master+Deployment+Guide"
+        },
+        {
+          "title": "Install and Configure Tomcat 9.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65639/Install+and+Configure+Tomcat+9.0"
+        },
+        {
+          "title": "Install and Configure Java 8 ,11,17,21",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229444/Install+and+Configure+Java+8+11+17+21"
+        },
+        {
+          "title": "Tech Stack",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65559/Tech+Stack"
+        },
+        {
+          "title": "Installation Checklist",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/164053/Installation+Checklist"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/people/6007267edfb0c700692285fb?ref=confluence&src=profilecard"
+        },
+        {
+          "title": "Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/58589185/Project+Setup"
+        },
+        {
+          "title": "Install and Configure Dremio (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/180060163/Install+and+Configure+Dremio+Optional"
+        },
+        {
+          "title": "Inferyx User Manual",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229479/Inferyx+User+Manual"
+        },
+        {
+          "title": "Inferyx Installation Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229472/Inferyx+Installation+Guide"
+        },
+        {
+          "title": "Install and Configure Mssql (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/176324609/Install+and+Configure+Mssql+Optional"
+        },
+        {
+          "title": "Content Comparison",
+          "url": "https://inferyx.atlassian.net/wiki/pages/diffpagesbyversion.action?pageId=65559&selectedPageVersions=8&selectedPageVersions=9"
+        },
+        {
+          "title": "Install and Configure JupyterHub 3.1.1",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298844161/Install+and+Configure+JupyterHub+3.1.1"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/templates"
+        },
+        {
+          "title": "Install and Configure Mysql",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33287/Install+and+Configure+Mysql"
+        },
+        {
+          "title": "Project Setup  and Docker Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/297467917/Project+Setup+and+Docker+Deployment+Guide"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages"
+        },
+        {
+          "title": "Install and Configure Kafka (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298713149/Install+and+Configure+Kafka+Optional"
+        },
+        {
+          "title": "Install and Configure Tomcat 10",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/441581570/Install+and+Configure+Tomcat+10"
+        },
+        {
+          "title": "Install or Upgrade Mongo 7.x",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/288948225/Install+or+Upgrade+Mongo+7.x"
+        },
+        {
+          "title": "Inferyx Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/43057153/Inferyx+Project+Setup"
+        },
+        {
+          "title": "Install and Configure Python (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33294/Install+and+Configure+Python+Optional"
+        },
+        {
+          "title": "Install and Configure Kubeflow 1.26.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/289800193/Install+and+Configure+Kubeflow+1.26.0"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki"
+        }
+      ]
+    },
+    {
+      "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/164053/Installation+Checklist",
+      "links": [],
+      "related_sections": [
+        {
+          "title": "Install and Configure Mongo",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65646/Install+and+Configure+Mongo"
+        },
+        {
+          "title": "33287",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33287"
+        },
+        {
+          "title": "360570",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/360570"
+        },
+        {
+          "title": "Installation and Configure Studio 3T",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/300122113/Installation+and+Configure+Studio+3T"
+        },
+        {
+          "title": "Inferyx Installation Manual / Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/overview?homepageId=163927"
+        },
+        {
+          "title": "Install and Configure Neo4J",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229451/Install+and+Configure+Neo4J"
+        },
+        {
+          "title": "Install and Configure Camunda",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216432641/Install+and+Configure+Camunda"
+        },
+        {
+          "title": "Authentication Configurations",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/6193153/Authentication+Configurations"
+        },
+        {
+          "title": "164148",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/164148"
+        },
+        {
+          "title": "Install and Configure Snowflake (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/222986241/Install+and+Configure+Snowflake+Optional"
+        },
+        {
+          "title": "Inferyx Release Notes",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/12058625/Inferyx+Release+Notes"
+        },
+        {
+          "title": "Atlassian Cookies & Tracking Notice",
+          "url": "https://www.atlassian.com/legal/cookies"
+        },
+        {
+          "title": "Master Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298975240/Master+Deployment+Guide"
+        },
+        {
+          "title": "Install and Configure Tomcat 9.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65639/Install+and+Configure+Tomcat+9.0"
+        },
+        {
+          "title": "Install and Configure Java 8 ,11,17,21",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229444/Install+and+Configure+Java+8+11+17+21"
+        },
+        {
+          "title": "Tech Stack",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65559/Tech+Stack"
+        },
+        {
+          "title": "Installation Checklist",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/164053/Installation+Checklist"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/people/6007267edfb0c700692285fb?ref=confluence&src=profilecard"
+        },
+        {
+          "title": "Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/58589185/Project+Setup"
+        },
+        {
+          "title": "Install and Configure Dremio (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/180060163/Install+and+Configure+Dremio+Optional"
+        },
+        {
+          "title": "65639",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65639"
+        },
+        {
+          "title": "33294",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33294"
+        },
+        {
+          "title": "Inferyx User Manual",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229479/Inferyx+User+Manual"
+        },
+        {
+          "title": "Inferyx Installation Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229472/Inferyx+Installation+Guide"
+        },
+        {
+          "title": "Install and Configure Mssql (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/176324609/Install+and+Configure+Mssql+Optional"
+        },
+        {
+          "title": "Install and Configure JupyterHub 3.1.1",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298844161/Install+and+Configure+JupyterHub+3.1.1"
+        },
+        {
+          "title": "Atlassian",
+          "url": "https://inferyx.atlassian.net/wiki/pages/createpage.action?spaceKey=IID&title=Deploy%20Inferyx%20Application&linkCreation=true&fromPageId=164053"
+        },
+        {
+          "title": "33329",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33329"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/templates"
+        },
+        {
+          "title": "Content Comparison",
+          "url": "https://inferyx.atlassian.net/wiki/pages/diffpagesbyversion.action?pageId=164053&selectedPageVersions=3&selectedPageVersions=4"
+        },
+        {
+          "title": "229451",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229451"
+        },
+        {
+          "title": "Install and Configure Mysql",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33287/Install+and+Configure+Mysql"
+        },
+        {
+          "title": "65674",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65674"
+        },
+        {
+          "title": "65667",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65667"
+        },
+        {
+          "title": "Project Setup  and Docker Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/297467917/Project+Setup+and+Docker+Deployment+Guide"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages"
+        },
+        {
+          "title": "Install and Configure Kafka (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298713149/Install+and+Configure+Kafka+Optional"
+        },
+        {
+          "title": "Install and Configure Tomcat 10",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/441581570/Install+and+Configure+Tomcat+10"
+        },
+        {
+          "title": "229444",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229444"
+        },
+        {
+          "title": "Install or Upgrade Mongo 7.x",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/288948225/Install+or+Upgrade+Mongo+7.x"
+        },
+        {
+          "title": "Inferyx Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/43057153/Inferyx+Project+Setup"
+        },
+        {
+          "title": "65646",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65646"
+        },
+        {
+          "title": "Install and Configure Python (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33294/Install+and+Configure+Python+Optional"
+        },
+        {
+          "title": "Install and Configure Kubeflow 1.26.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/289800193/Install+and+Configure+Kubeflow+1.26.0"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki"
+        }
+      ]
+    },
+    {
+      "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/43057153/Inferyx+Project+Setup",
+      "links": [],
+      "related_sections": [
+        {
+          "title": "Install and Configure Mongo",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65646/Install+and+Configure+Mongo"
+        },
+        {
+          "title": "33287",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33287"
+        },
+        {
+          "title": "360570",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/360570"
+        },
+        {
+          "title": "Installation and Configure Studio 3T",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/300122113/Installation+and+Configure+Studio+3T"
+        },
+        {
+          "title": "Inferyx Installation Manual / Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/overview?homepageId=163927"
+        },
+        {
+          "title": "Install and Configure Neo4J",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229451/Install+and+Configure+Neo4J"
+        },
+        {
+          "title": "Install and Configure Camunda",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216432641/Install+and+Configure+Camunda"
+        },
+        {
+          "title": "Authentication Configurations",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/6193153/Authentication+Configurations"
+        },
+        {
+          "title": "Install and Configure Snowflake (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/222986241/Install+and+Configure+Snowflake+Optional"
+        },
+        {
+          "title": "Inferyx Release Notes",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/12058625/Inferyx+Release+Notes"
+        },
+        {
+          "title": "Atlassian Cookies & Tracking Notice",
+          "url": "https://www.atlassian.com/legal/cookies"
+        },
+        {
+          "title": "216432641",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216432641"
+        },
+        {
+          "title": "Master Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298975240/Master+Deployment+Guide"
+        },
+        {
+          "title": "Install and Configure Tomcat 9.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65639/Install+and+Configure+Tomcat+9.0"
+        },
+        {
+          "title": "Install and Configure Java 8 ,11,17,21",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229444/Install+and+Configure+Java+8+11+17+21"
+        },
+        {
+          "title": "Tech Stack",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65559/Tech+Stack"
+        },
+        {
+          "title": "Installation Checklist",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/164053/Installation+Checklist"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/people/6007267edfb0c700692285fb?ref=confluence&src=profilecard"
+        },
+        {
+          "title": "Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/58589185/Project+Setup"
+        },
+        {
+          "title": "Install and Configure Dremio (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/180060163/Install+and+Configure+Dremio+Optional"
+        },
+        {
+          "title": "65639",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65639"
+        },
+        {
+          "title": "33294",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33294"
+        },
+        {
+          "title": "Inferyx User Manual",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229479/Inferyx+User+Manual"
+        },
+        {
+          "title": "Inferyx Installation Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229472/Inferyx+Installation+Guide"
+        },
+        {
+          "title": "Install and Configure Mssql (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/176324609/Install+and+Configure+Mssql+Optional"
+        },
+        {
+          "title": "Install and Configure JupyterHub 3.1.1",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298844161/Install+and+Configure+JupyterHub+3.1.1"
+        },
+        {
+          "title": "Content Comparison",
+          "url": "https://inferyx.atlassian.net/wiki/pages/diffpagesbyversion.action?pageId=43057153&selectedPageVersions=14&selectedPageVersions=15"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/templates"
+        },
+        {
+          "title": "229451",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229451"
+        },
+        {
+          "title": "Install and Configure Mysql",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33287/Install+and+Configure+Mysql"
+        },
+        {
+          "title": "Project Setup  and Docker Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/297467917/Project+Setup+and+Docker+Deployment+Guide"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages"
+        },
+        {
+          "title": "Install and Configure Kafka (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298713149/Install+and+Configure+Kafka+Optional"
+        },
+        {
+          "title": "Install and Configure Tomcat 10",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/441581570/Install+and+Configure+Tomcat+10"
+        },
+        {
+          "title": "229444",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229444"
+        },
+        {
+          "title": "Install or Upgrade Mongo 7.x",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/288948225/Install+or+Upgrade+Mongo+7.x"
+        },
+        {
+          "title": "Inferyx Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/43057153/Inferyx+Project+Setup"
+        },
+        {
+          "title": "65646",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65646"
+        },
+        {
+          "title": "Install and Configure Python (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33294/Install+and+Configure+Python+Optional"
+        },
+        {
+          "title": "Install and Configure Kubeflow 1.26.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/289800193/Install+and+Configure+Kubeflow+1.26.0"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki"
+        }
+      ]
+    },
+    {
+      "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229444/Install+and+Configure+Java+8+11+17+21",
+      "links": [],
+      "related_sections": [
+        {
+          "title": "Install and Configure Mongo",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65646/Install+and+Configure+Mongo"
+        },
+        {
+          "title": "360570",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/360570"
+        },
+        {
+          "title": "Installation and Configure Studio 3T",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/300122113/Installation+and+Configure+Studio+3T"
+        },
+        {
+          "title": "Inferyx Installation Manual / Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/overview?homepageId=163927"
+        },
+        {
+          "title": "Install and Configure Neo4J",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229451/Install+and+Configure+Neo4J"
+        },
+        {
+          "title": "Install and Configure Camunda",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216432641/Install+and+Configure+Camunda"
+        },
+        {
+          "title": "Authentication Configurations",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/6193153/Authentication+Configurations"
+        },
+        {
+          "title": "Install and Configure Snowflake (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/222986241/Install+and+Configure+Snowflake+Optional"
+        },
+        {
+          "title": "Inferyx Release Notes",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/12058625/Inferyx+Release+Notes"
+        },
+        {
+          "title": "Atlassian Cookies & Tracking Notice",
+          "url": "https://www.atlassian.com/legal/cookies"
+        },
+        {
+          "title": "Master Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298975240/Master+Deployment+Guide"
+        },
+        {
+          "title": "Content Comparison",
+          "url": "https://inferyx.atlassian.net/wiki/pages/diffpagesbyversion.action?pageId=229444&selectedPageVersions=4&selectedPageVersions=5"
+        },
+        {
+          "title": "Install and Configure Tomcat 9.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65639/Install+and+Configure+Tomcat+9.0"
+        },
+        {
+          "title": "Install and Configure Java 8 ,11,17,21",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229444/Install+and+Configure+Java+8+11+17+21"
+        },
+        {
+          "title": "Tech Stack",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65559/Tech+Stack"
+        },
+        {
+          "title": "Installation Checklist",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/164053/Installation+Checklist"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/people/6007267edfb0c700692285fb?ref=confluence&src=profilecard"
+        },
+        {
+          "title": "Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/58589185/Project+Setup"
+        },
+        {
+          "title": "Install and Configure Dremio (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/180060163/Install+and+Configure+Dremio+Optional"
+        },
+        {
+          "title": "Inferyx User Manual",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229479/Inferyx+User+Manual"
+        },
+        {
+          "title": "Inferyx Installation Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229472/Inferyx+Installation+Guide"
+        },
+        {
+          "title": "Install and Configure Mssql (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/176324609/Install+and+Configure+Mssql+Optional"
+        },
+        {
+          "title": "Install and Configure JupyterHub 3.1.1",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298844161/Install+and+Configure+JupyterHub+3.1.1"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/templates"
+        },
+        {
+          "title": "Install and Configure Mysql",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33287/Install+and+Configure+Mysql"
+        },
+        {
+          "title": "Project Setup  and Docker Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/297467917/Project+Setup+and+Docker+Deployment+Guide"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages"
+        },
+        {
+          "title": "Install and Configure Kafka (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298713149/Install+and+Configure+Kafka+Optional"
+        },
+        {
+          "title": "Install and Configure Tomcat 10",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/441581570/Install+and+Configure+Tomcat+10"
+        },
+        {
+          "title": "Install or Upgrade Mongo 7.x",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/288948225/Install+or+Upgrade+Mongo+7.x"
+        },
+        {
+          "title": "Inferyx Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/43057153/Inferyx+Project+Setup"
+        },
+        {
+          "title": "Install and Configure Python (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33294/Install+and+Configure+Python+Optional"
+        },
+        {
+          "title": "Install and Configure Kubeflow 1.26.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/289800193/Install+and+Configure+Kubeflow+1.26.0"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki"
+        }
+      ]
+    },
+    {
+      "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65639/Install+and+Configure+Tomcat+9.0",
+      "links": [],
+      "related_sections": [
+        {
+          "title": "Install and Configure Mongo",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65646/Install+and+Configure+Mongo"
+        },
+        {
+          "title": "360570",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/360570"
+        },
+        {
+          "title": "Installation and Configure Studio 3T",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/300122113/Installation+and+Configure+Studio+3T"
+        },
+        {
+          "title": "Inferyx Installation Manual / Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/overview?homepageId=163927"
+        },
+        {
+          "title": "Install and Configure Neo4J",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229451/Install+and+Configure+Neo4J"
+        },
+        {
+          "title": "Install and Configure Camunda",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216432641/Install+and+Configure+Camunda"
+        },
+        {
+          "title": "Authentication Configurations",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/6193153/Authentication+Configurations"
+        },
+        {
+          "title": "Install and Configure Snowflake (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/222986241/Install+and+Configure+Snowflake+Optional"
+        },
+        {
+          "title": "Inferyx Release Notes",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/12058625/Inferyx+Release+Notes"
+        },
+        {
+          "title": "Atlassian Cookies & Tracking Notice",
+          "url": "https://www.atlassian.com/legal/cookies"
+        },
+        {
+          "title": "Master Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298975240/Master+Deployment+Guide"
+        },
+        {
+          "title": "Install and Configure Tomcat 9.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65639/Install+and+Configure+Tomcat+9.0"
+        },
+        {
+          "title": "Content Comparison",
+          "url": "https://inferyx.atlassian.net/wiki/pages/diffpagesbyversion.action?pageId=65639&selectedPageVersions=7&selectedPageVersions=8"
+        },
+        {
+          "title": "Install and Configure Java 8 ,11,17,21",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229444/Install+and+Configure+Java+8+11+17+21"
+        },
+        {
+          "title": "Tech Stack",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65559/Tech+Stack"
+        },
+        {
+          "title": "Installation Checklist",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/164053/Installation+Checklist"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/people/6007267edfb0c700692285fb?ref=confluence&src=profilecard"
+        },
+        {
+          "title": "Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/58589185/Project+Setup"
+        },
+        {
+          "title": "Install and Configure Dremio (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/180060163/Install+and+Configure+Dremio+Optional"
+        },
+        {
+          "title": "Inferyx User Manual",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229479/Inferyx+User+Manual"
+        },
+        {
+          "title": "Inferyx Installation Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229472/Inferyx+Installation+Guide"
+        },
+        {
+          "title": "Install and Configure Mssql (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/176324609/Install+and+Configure+Mssql+Optional"
+        },
+        {
+          "title": "Install and Configure JupyterHub 3.1.1",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298844161/Install+and+Configure+JupyterHub+3.1.1"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/templates"
+        },
+        {
+          "title": "Install and Configure Mysql",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33287/Install+and+Configure+Mysql"
+        },
+        {
+          "title": "Project Setup  and Docker Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/297467917/Project+Setup+and+Docker+Deployment+Guide"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages"
+        },
+        {
+          "title": "Install and Configure Kafka (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298713149/Install+and+Configure+Kafka+Optional"
+        },
+        {
+          "title": "Install and Configure Tomcat 10",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/441581570/Install+and+Configure+Tomcat+10"
+        },
+        {
+          "title": "Install or Upgrade Mongo 7.x",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/288948225/Install+or+Upgrade+Mongo+7.x"
+        },
+        {
+          "title": "Inferyx Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/43057153/Inferyx+Project+Setup"
+        },
+        {
+          "title": "Install and Configure Python (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33294/Install+and+Configure+Python+Optional"
+        },
+        {
+          "title": "Install and Configure Kubeflow 1.26.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/289800193/Install+and+Configure+Kubeflow+1.26.0"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki"
+        }
+      ]
+    },
+    {
+      "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/441581570/Install+and+Configure+Tomcat+10",
+      "links": [],
+      "related_sections": [
+        {
+          "title": "Install and Configure Mongo",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65646/Install+and+Configure+Mongo"
+        },
+        {
+          "title": "360570",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/360570"
+        },
+        {
+          "title": "Installation and Configure Studio 3T",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/300122113/Installation+and+Configure+Studio+3T"
+        },
+        {
+          "title": "Inferyx Installation Manual / Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/overview?homepageId=163927"
+        },
+        {
+          "title": "Install and Configure Neo4J",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229451/Install+and+Configure+Neo4J"
+        },
+        {
+          "title": "Install and Configure Camunda",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216432641/Install+and+Configure+Camunda"
+        },
+        {
+          "title": "Authentication Configurations",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/6193153/Authentication+Configurations"
+        },
+        {
+          "title": "Install and Configure Snowflake (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/222986241/Install+and+Configure+Snowflake+Optional"
+        },
+        {
+          "title": "Inferyx Release Notes",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/12058625/Inferyx+Release+Notes"
+        },
+        {
+          "title": "Atlassian Cookies & Tracking Notice",
+          "url": "https://www.atlassian.com/legal/cookies"
+        },
+        {
+          "title": "Master Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298975240/Master+Deployment+Guide"
+        },
+        {
+          "title": "Install and Configure Tomcat 9.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65639/Install+and+Configure+Tomcat+9.0"
+        },
+        {
+          "title": "Install and Configure Java 8 ,11,17,21",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229444/Install+and+Configure+Java+8+11+17+21"
+        },
+        {
+          "title": "Tech Stack",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65559/Tech+Stack"
+        },
+        {
+          "title": "Installation Checklist",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/164053/Installation+Checklist"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/people/6007267edfb0c700692285fb?ref=confluence&src=profilecard"
+        },
+        {
+          "title": "Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/58589185/Project+Setup"
+        },
+        {
+          "title": "Install and Configure Dremio (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/180060163/Install+and+Configure+Dremio+Optional"
+        },
+        {
+          "title": "Inferyx User Manual",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229479/Inferyx+User+Manual"
+        },
+        {
+          "title": "Inferyx Installation Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229472/Inferyx+Installation+Guide"
+        },
+        {
+          "title": "Install and Configure Mssql (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/176324609/Install+and+Configure+Mssql+Optional"
+        },
+        {
+          "title": "Install and Configure JupyterHub 3.1.1",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298844161/Install+and+Configure+JupyterHub+3.1.1"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/templates"
+        },
+        {
+          "title": "Install and Configure Mysql",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33287/Install+and+Configure+Mysql"
+        },
+        {
+          "title": "Project Setup  and Docker Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/297467917/Project+Setup+and+Docker+Deployment+Guide"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages"
+        },
+        {
+          "title": "Install and Configure Kafka (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298713149/Install+and+Configure+Kafka+Optional"
+        },
+        {
+          "title": "Install and Configure Tomcat 10",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/441581570/Install+and+Configure+Tomcat+10"
+        },
+        {
+          "title": "Install or Upgrade Mongo 7.x",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/288948225/Install+or+Upgrade+Mongo+7.x"
+        },
+        {
+          "title": "Inferyx Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/43057153/Inferyx+Project+Setup"
+        },
+        {
+          "title": "Install and Configure Python (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33294/Install+and+Configure+Python+Optional"
+        },
+        {
+          "title": "Install and Configure Kubeflow 1.26.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/289800193/Install+and+Configure+Kubeflow+1.26.0"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki"
+        }
+      ]
+    },
+    {
+      "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33287/Install+and+Configure+Mysql",
+      "links": [],
+      "related_sections": [
+        {
+          "title": "Install and Configure Mongo",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65646/Install+and+Configure+Mongo"
+        },
+        {
+          "title": "360570",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/360570"
+        },
+        {
+          "title": "Installation and Configure Studio 3T",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/300122113/Installation+and+Configure+Studio+3T"
+        },
+        {
+          "title": "Inferyx Installation Manual / Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/overview?homepageId=163927"
+        },
+        {
+          "title": "Install and Configure Neo4J",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229451/Install+and+Configure+Neo4J"
+        },
+        {
+          "title": "Install and Configure Camunda",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216432641/Install+and+Configure+Camunda"
+        },
+        {
+          "title": "Authentication Configurations",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/6193153/Authentication+Configurations"
+        },
+        {
+          "title": "Install and Configure Snowflake (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/222986241/Install+and+Configure+Snowflake+Optional"
+        },
+        {
+          "title": "Inferyx Release Notes",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/12058625/Inferyx+Release+Notes"
+        },
+        {
+          "title": "Atlassian Cookies & Tracking Notice",
+          "url": "https://www.atlassian.com/legal/cookies"
+        },
+        {
+          "title": "Master Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298975240/Master+Deployment+Guide"
+        },
+        {
+          "title": "Install and Configure Tomcat 9.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65639/Install+and+Configure+Tomcat+9.0"
+        },
+        {
+          "title": "Install and Configure Java 8 ,11,17,21",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229444/Install+and+Configure+Java+8+11+17+21"
+        },
+        {
+          "title": "Tech Stack",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65559/Tech+Stack"
+        },
+        {
+          "title": "Installation Checklist",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/164053/Installation+Checklist"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/people/6007267edfb0c700692285fb?ref=confluence&src=profilecard"
+        },
+        {
+          "title": "Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/58589185/Project+Setup"
+        },
+        {
+          "title": "Install and Configure Dremio (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/180060163/Install+and+Configure+Dremio+Optional"
+        },
+        {
+          "title": "Inferyx User Manual",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229479/Inferyx+User+Manual"
+        },
+        {
+          "title": "Inferyx Installation Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229472/Inferyx+Installation+Guide"
+        },
+        {
+          "title": "Install and Configure Mssql (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/176324609/Install+and+Configure+Mssql+Optional"
+        },
+        {
+          "title": "Install and Configure JupyterHub 3.1.1",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298844161/Install+and+Configure+JupyterHub+3.1.1"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/templates"
+        },
+        {
+          "title": "Install and Configure Mysql",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33287/Install+and+Configure+Mysql"
+        },
+        {
+          "title": "Project Setup  and Docker Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/297467917/Project+Setup+and+Docker+Deployment+Guide"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages"
+        },
+        {
+          "title": "Install and Configure Kafka (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298713149/Install+and+Configure+Kafka+Optional"
+        },
+        {
+          "title": "Install and Configure Tomcat 10",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/441581570/Install+and+Configure+Tomcat+10"
+        },
+        {
+          "title": "Content Comparison",
+          "url": "https://inferyx.atlassian.net/wiki/pages/diffpagesbyversion.action?pageId=33287&selectedPageVersions=3&selectedPageVersions=4"
+        },
+        {
+          "title": "Install or Upgrade Mongo 7.x",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/288948225/Install+or+Upgrade+Mongo+7.x"
+        },
+        {
+          "title": "Inferyx Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/43057153/Inferyx+Project+Setup"
+        },
+        {
+          "title": "Install and Configure Python (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33294/Install+and+Configure+Python+Optional"
+        },
+        {
+          "title": "Install and Configure Kubeflow 1.26.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/289800193/Install+and+Configure+Kubeflow+1.26.0"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki"
+        }
+      ]
+    },
+    {
+      "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65646/Install+and+Configure+Mongo",
+      "links": [],
+      "related_sections": [
+        {
+          "title": "Install and Configure Mongo",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65646/Install+and+Configure+Mongo"
+        },
+        {
+          "title": "360570",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/360570"
+        },
+        {
+          "title": "Installation and Configure Studio 3T",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/300122113/Installation+and+Configure+Studio+3T"
+        },
+        {
+          "title": "Inferyx Installation Manual / Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/overview?homepageId=163927"
+        },
+        {
+          "title": "Install and Configure Neo4J",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229451/Install+and+Configure+Neo4J"
+        },
+        {
+          "title": "Install and Configure Camunda",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216432641/Install+and+Configure+Camunda"
+        },
+        {
+          "title": "Authentication Configurations",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/6193153/Authentication+Configurations"
+        },
+        {
+          "title": "Install and Configure Snowflake (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/222986241/Install+and+Configure+Snowflake+Optional"
+        },
+        {
+          "title": "Inferyx Release Notes",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/12058625/Inferyx+Release+Notes"
+        },
+        {
+          "title": "Atlassian Cookies & Tracking Notice",
+          "url": "https://www.atlassian.com/legal/cookies"
+        },
+        {
+          "title": "Master Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298975240/Master+Deployment+Guide"
+        },
+        {
+          "title": "Install and Configure Tomcat 9.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65639/Install+and+Configure+Tomcat+9.0"
+        },
+        {
+          "title": "Install and Configure Java 8 ,11,17,21",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229444/Install+and+Configure+Java+8+11+17+21"
+        },
+        {
+          "title": "Tech Stack",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65559/Tech+Stack"
+        },
+        {
+          "title": "Installation Checklist",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/164053/Installation+Checklist"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/people/6007267edfb0c700692285fb?ref=confluence&src=profilecard"
+        },
+        {
+          "title": "Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/58589185/Project+Setup"
+        },
+        {
+          "title": "Install and Configure Dremio (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/180060163/Install+and+Configure+Dremio+Optional"
+        },
+        {
+          "title": "Inferyx User Manual",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229479/Inferyx+User+Manual"
+        },
+        {
+          "title": "Inferyx Installation Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229472/Inferyx+Installation+Guide"
+        },
+        {
+          "title": "Install and Configure Mssql (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/176324609/Install+and+Configure+Mssql+Optional"
+        },
+        {
+          "title": "Install and Configure JupyterHub 3.1.1",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298844161/Install+and+Configure+JupyterHub+3.1.1"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/templates"
+        },
+        {
+          "title": "Content Comparison",
+          "url": "https://inferyx.atlassian.net/wiki/pages/diffpagesbyversion.action?pageId=65646&selectedPageVersions=8&selectedPageVersions=9"
+        },
+        {
+          "title": "Install and Configure Mysql",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33287/Install+and+Configure+Mysql"
+        },
+        {
+          "title": "Project Setup  and Docker Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/297467917/Project+Setup+and+Docker+Deployment+Guide"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages"
+        },
+        {
+          "title": "Install and Configure Kafka (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298713149/Install+and+Configure+Kafka+Optional"
+        },
+        {
+          "title": "Install and Configure Tomcat 10",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/441581570/Install+and+Configure+Tomcat+10"
+        },
+        {
+          "title": "Install or Upgrade Mongo 7.x",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/288948225/Install+or+Upgrade+Mongo+7.x"
+        },
+        {
+          "title": "Inferyx Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/43057153/Inferyx+Project+Setup"
+        },
+        {
+          "title": "Install and Configure Python (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33294/Install+and+Configure+Python+Optional"
+        },
+        {
+          "title": "Install and Configure Kubeflow 1.26.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/289800193/Install+and+Configure+Kubeflow+1.26.0"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki"
+        }
+      ]
+    },
+    {
+      "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/288948225/Install+or+Upgrade+Mongo+7.x",
+      "links": [],
+      "related_sections": [
+        {
+          "title": "Install and Configure Mongo",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65646/Install+and+Configure+Mongo"
+        },
+        {
+          "title": "360570",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/360570"
+        },
+        {
+          "title": "Installation and Configure Studio 3T",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/300122113/Installation+and+Configure+Studio+3T"
+        },
+        {
+          "title": "Inferyx Installation Manual / Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/overview?homepageId=163927"
+        },
+        {
+          "title": "Install and Configure Neo4J",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229451/Install+and+Configure+Neo4J"
+        },
+        {
+          "title": "Install and Configure Camunda",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216432641/Install+and+Configure+Camunda"
+        },
+        {
+          "title": "Authentication Configurations",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/6193153/Authentication+Configurations"
+        },
+        {
+          "title": "Install and Configure Snowflake (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/222986241/Install+and+Configure+Snowflake+Optional"
+        },
+        {
+          "title": "Inferyx Release Notes",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/12058625/Inferyx+Release+Notes"
+        },
+        {
+          "title": "Atlassian Cookies & Tracking Notice",
+          "url": "https://www.atlassian.com/legal/cookies"
+        },
+        {
+          "title": "Master Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298975240/Master+Deployment+Guide"
+        },
+        {
+          "title": "Install and Configure Tomcat 9.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65639/Install+and+Configure+Tomcat+9.0"
+        },
+        {
+          "title": "Install and Configure Java 8 ,11,17,21",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229444/Install+and+Configure+Java+8+11+17+21"
+        },
+        {
+          "title": "Tech Stack",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65559/Tech+Stack"
+        },
+        {
+          "title": "Installation Checklist",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/164053/Installation+Checklist"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/people/6007267edfb0c700692285fb?ref=confluence&src=profilecard"
+        },
+        {
+          "title": "Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/58589185/Project+Setup"
+        },
+        {
+          "title": "Install and Configure Dremio (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/180060163/Install+and+Configure+Dremio+Optional"
+        },
+        {
+          "title": "Inferyx User Manual",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229479/Inferyx+User+Manual"
+        },
+        {
+          "title": "Inferyx Installation Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229472/Inferyx+Installation+Guide"
+        },
+        {
+          "title": "Install and Configure Mssql (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/176324609/Install+and+Configure+Mssql+Optional"
+        },
+        {
+          "title": "Install and Configure JupyterHub 3.1.1",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298844161/Install+and+Configure+JupyterHub+3.1.1"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/templates"
+        },
+        {
+          "title": "Install and Configure Mysql",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33287/Install+and+Configure+Mysql"
+        },
+        {
+          "title": "Project Setup  and Docker Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/297467917/Project+Setup+and+Docker+Deployment+Guide"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages"
+        },
+        {
+          "title": "Install and Configure Kafka (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298713149/Install+and+Configure+Kafka+Optional"
+        },
+        {
+          "title": "Install and Configure Tomcat 10",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/441581570/Install+and+Configure+Tomcat+10"
+        },
+        {
+          "title": "Content Comparison",
+          "url": "https://inferyx.atlassian.net/wiki/pages/diffpagesbyversion.action?pageId=288948225&selectedPageVersions=17&selectedPageVersions=18"
+        },
+        {
+          "title": "Install or Upgrade Mongo 7.x",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/288948225/Install+or+Upgrade+Mongo+7.x"
+        },
+        {
+          "title": "Inferyx Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/43057153/Inferyx+Project+Setup"
+        },
+        {
+          "title": "Install and Configure Python (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33294/Install+and+Configure+Python+Optional"
+        },
+        {
+          "title": "Install and Configure Kubeflow 1.26.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/289800193/Install+and+Configure+Kubeflow+1.26.0"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki"
+        }
+      ]
+    },
+    {
+      "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229451/Install+and+Configure+Neo4J",
+      "links": [],
+      "related_sections": [
+        {
+          "title": "Install and Configure Mongo",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65646/Install+and+Configure+Mongo"
+        },
+        {
+          "title": "360570",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/360570"
+        },
+        {
+          "title": "Installation and Configure Studio 3T",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/300122113/Installation+and+Configure+Studio+3T"
+        },
+        {
+          "title": "Inferyx Installation Manual / Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/overview?homepageId=163927"
+        },
+        {
+          "title": "Install and Configure Neo4J",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229451/Install+and+Configure+Neo4J"
+        },
+        {
+          "title": "Install and Configure Camunda",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216432641/Install+and+Configure+Camunda"
+        },
+        {
+          "title": "Authentication Configurations",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/6193153/Authentication+Configurations"
+        },
+        {
+          "title": "Install and Configure Snowflake (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/222986241/Install+and+Configure+Snowflake+Optional"
+        },
+        {
+          "title": "Inferyx Release Notes",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/12058625/Inferyx+Release+Notes"
+        },
+        {
+          "title": "Atlassian Cookies & Tracking Notice",
+          "url": "https://www.atlassian.com/legal/cookies"
+        },
+        {
+          "title": "Master Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298975240/Master+Deployment+Guide"
+        },
+        {
+          "title": "Install and Configure Tomcat 9.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65639/Install+and+Configure+Tomcat+9.0"
+        },
+        {
+          "title": "Install and Configure Java 8 ,11,17,21",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229444/Install+and+Configure+Java+8+11+17+21"
+        },
+        {
+          "title": "Tech Stack",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65559/Tech+Stack"
+        },
+        {
+          "title": "Installation Checklist",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/164053/Installation+Checklist"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/people/6007267edfb0c700692285fb?ref=confluence&src=profilecard"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/58589185/Project+Setup"
+        },
+        {
+          "title": "Install and Configure Dremio (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/180060163/Install+and+Configure+Dremio+Optional"
+        },
+        {
+          "title": "Inferyx User Manual",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229479/Inferyx+User+Manual"
+        },
+        {
+          "title": "Inferyx Installation Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229472/Inferyx+Installation+Guide"
+        },
+        {
+          "title": "Install and Configure Mssql (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/176324609/Install+and+Configure+Mssql+Optional"
+        },
+        {
+          "title": "Install and Configure JupyterHub 3.1.1",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298844161/Install+and+Configure+JupyterHub+3.1.1"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/templates"
+        },
+        {
+          "title": "Content Comparison",
+          "url": "https://inferyx.atlassian.net/wiki/pages/diffpagesbyversion.action?pageId=229451&selectedPageVersions=2&selectedPageVersions=3"
+        },
+        {
+          "title": "Install and Configure Mysql",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33287/Install+and+Configure+Mysql"
+        },
+        {
+          "title": "Project Setup  and Docker Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/297467917/Project+Setup+and+Docker+Deployment+Guide"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages"
+        },
+        {
+          "title": "Install and Configure Kafka (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298713149/Install+and+Configure+Kafka+Optional"
+        },
+        {
+          "title": "Install and Configure Tomcat 10",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/441581570/Install+and+Configure+Tomcat+10"
+        },
+        {
+          "title": "Install or Upgrade Mongo 7.x",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/288948225/Install+or+Upgrade+Mongo+7.x"
+        },
+        {
+          "title": "Inferyx Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/43057153/Inferyx+Project+Setup"
+        },
+        {
+          "title": "Install and Configure Python (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33294/Install+and+Configure+Python+Optional"
+        },
+        {
+          "title": "Install and Configure Kubeflow 1.26.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/289800193/Install+and+Configure+Kubeflow+1.26.0"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki"
+        }
+      ]
+    },
+    {
+      "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216432641/Install+and+Configure+Camunda",
+      "links": [],
+      "related_sections": [
+        {
+          "title": "Install and Configure Mongo",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65646/Install+and+Configure+Mongo"
+        },
+        {
+          "title": "360570",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/360570"
+        },
+        {
+          "title": "Installation and Configure Studio 3T",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/300122113/Installation+and+Configure+Studio+3T"
+        },
+        {
+          "title": "Inferyx Installation Manual / Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/overview?homepageId=163927"
+        },
+        {
+          "title": "Install and Configure Neo4J",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229451/Install+and+Configure+Neo4J"
+        },
+        {
+          "title": "Install and Configure Camunda",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216432641/Install+and+Configure+Camunda"
+        },
+        {
+          "title": "Authentication Configurations",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/6193153/Authentication+Configurations"
+        },
+        {
+          "title": "Install and Configure Snowflake (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/222986241/Install+and+Configure+Snowflake+Optional"
+        },
+        {
+          "title": "Inferyx Release Notes",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/12058625/Inferyx+Release+Notes"
+        },
+        {
+          "title": "Atlassian Cookies & Tracking Notice",
+          "url": "https://www.atlassian.com/legal/cookies"
+        },
+        {
+          "title": "Master Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298975240/Master+Deployment+Guide"
+        },
+        {
+          "title": "Install and Configure Tomcat 9.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65639/Install+and+Configure+Tomcat+9.0"
+        },
+        {
+          "title": "Install and Configure Java 8 ,11,17,21",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229444/Install+and+Configure+Java+8+11+17+21"
+        },
+        {
+          "title": "Tech Stack",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65559/Tech+Stack"
+        },
+        {
+          "title": "Installation Checklist",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/164053/Installation+Checklist"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/people/6007267edfb0c700692285fb?ref=confluence&src=profilecard"
+        },
+        {
+          "title": "Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/58589185/Project+Setup"
+        },
+        {
+          "title": "Install and Configure Dremio (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/180060163/Install+and+Configure+Dremio+Optional"
+        },
+        {
+          "title": "Inferyx User Manual",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229479/Inferyx+User+Manual"
+        },
+        {
+          "title": "Inferyx Installation Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229472/Inferyx+Installation+Guide"
+        },
+        {
+          "title": "Install and Configure Mssql (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/176324609/Install+and+Configure+Mssql+Optional"
+        },
+        {
+          "title": "Install and Configure JupyterHub 3.1.1",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298844161/Install+and+Configure+JupyterHub+3.1.1"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/templates"
+        },
+        {
+          "title": "Content Comparison",
+          "url": "https://inferyx.atlassian.net/wiki/pages/diffpagesbyversion.action?pageId=216432641&selectedPageVersions=10&selectedPageVersions=11"
+        },
+        {
+          "title": "Install and Configure Mysql",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33287/Install+and+Configure+Mysql"
+        },
+        {
+          "title": "Download Camunda 7",
+          "url": "https://camunda.com/download/platform-7/"
+        },
+        {
+          "title": "Project Setup  and Docker Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/297467917/Project+Setup+and+Docker+Deployment+Guide"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages"
+        },
+        {
+          "title": "Install and Configure Kafka (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298713149/Install+and+Configure+Kafka+Optional"
+        },
+        {
+          "title": "Install and Configure Tomcat 10",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/441581570/Install+and+Configure+Tomcat+10"
+        },
+        {
+          "title": "Install or Upgrade Mongo 7.x",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/288948225/Install+or+Upgrade+Mongo+7.x"
+        },
+        {
+          "title": "Inferyx Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/43057153/Inferyx+Project+Setup"
+        },
+        {
+          "title": "Install and Configure Python (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33294/Install+and+Configure+Python+Optional"
+        },
+        {
+          "title": "Install and Configure Kubeflow 1.26.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/289800193/Install+and+Configure+Kubeflow+1.26.0"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki"
+        }
+      ]
+    },
+    {
+      "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/289800193/Install+and+Configure+Kubeflow+1.26.0",
+      "links": [],
+      "related_sections": [
+        {
+          "title": "Install and Configure Mongo",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65646/Install+and+Configure+Mongo"
+        },
+        {
+          "title": "360570",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/360570"
+        },
+        {
+          "title": "Installation and Configure Studio 3T",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/300122113/Installation+and+Configure+Studio+3T"
+        },
+        {
+          "title": "Content Comparison",
+          "url": "https://inferyx.atlassian.net/wiki/pages/diffpagesbyversion.action?pageId=289800193&selectedPageVersions=5&selectedPageVersions=6"
+        },
+        {
+          "title": "Inferyx Installation Manual / Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/overview?homepageId=163927"
+        },
+        {
+          "title": "Install and Configure Neo4J",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229451/Install+and+Configure+Neo4J"
+        },
+        {
+          "title": "Install and Configure Camunda",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216432641/Install+and+Configure+Camunda"
+        },
+        {
+          "title": "Authentication Configurations",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/6193153/Authentication+Configurations"
+        },
+        {
+          "title": "Install and Configure Snowflake (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/222986241/Install+and+Configure+Snowflake+Optional"
+        },
+        {
+          "title": "Inferyx Release Notes",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/12058625/Inferyx+Release+Notes"
+        },
+        {
+          "title": "Atlassian Cookies & Tracking Notice",
+          "url": "https://www.atlassian.com/legal/cookies"
+        },
+        {
+          "title": "Master Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298975240/Master+Deployment+Guide"
+        },
+        {
+          "title": "Install and Configure Tomcat 9.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65639/Install+and+Configure+Tomcat+9.0"
+        },
+        {
+          "title": "Install and Configure Java 8 ,11,17,21",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229444/Install+and+Configure+Java+8+11+17+21"
+        },
+        {
+          "title": "Tech Stack",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65559/Tech+Stack"
+        },
+        {
+          "title": "Installation Checklist",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/164053/Installation+Checklist"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/people/6007267edfb0c700692285fb?ref=confluence&src=profilecard"
+        },
+        {
+          "title": "Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/58589185/Project+Setup"
+        },
+        {
+          "title": "Install and Configure Dremio (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/180060163/Install+and+Configure+Dremio+Optional"
+        },
+        {
+          "title": "Inferyx User Manual",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229479/Inferyx+User+Manual"
+        },
+        {
+          "title": "Inferyx Installation Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229472/Inferyx+Installation+Guide"
+        },
+        {
+          "title": "Install and Configure Mssql (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/176324609/Install+and+Configure+Mssql+Optional"
+        },
+        {
+          "title": "Install and Configure JupyterHub 3.1.1",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298844161/Install+and+Configure+JupyterHub+3.1.1"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/templates"
+        },
+        {
+          "title": "Install and Configure Mysql",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33287/Install+and+Configure+Mysql"
+        },
+        {
+          "title": "Project Setup  and Docker Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/297467917/Project+Setup+and+Docker+Deployment+Guide"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages"
+        },
+        {
+          "title": "Install and Configure Kafka (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298713149/Install+and+Configure+Kafka+Optional"
+        },
+        {
+          "title": "Install and Configure Tomcat 10",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/441581570/Install+and+Configure+Tomcat+10"
+        },
+        {
+          "title": "Install or Upgrade Mongo 7.x",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/288948225/Install+or+Upgrade+Mongo+7.x"
+        },
+        {
+          "title": "Inferyx Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/43057153/Inferyx+Project+Setup"
+        },
+        {
+          "title": "Install and Configure Python (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33294/Install+and+Configure+Python+Optional"
+        },
+        {
+          "title": "Install and Configure Kubeflow 1.26.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/289800193/Install+and+Configure+Kubeflow+1.26.0"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki"
+        }
+      ]
+    },
+    {
+      "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298844161/Install+and+Configure+JupyterHub+3.1.1",
+      "links": [],
+      "related_sections": [
+        {
+          "title": "Install and Configure Mongo",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65646/Install+and+Configure+Mongo"
+        },
+        {
+          "title": "360570",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/360570"
+        },
+        {
+          "title": "Installation and Configure Studio 3T",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/300122113/Installation+and+Configure+Studio+3T"
+        },
+        {
+          "title": "Inferyx Installation Manual / Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/overview?homepageId=163927"
+        },
+        {
+          "title": "Install and Configure Neo4J",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229451/Install+and+Configure+Neo4J"
+        },
+        {
+          "title": "Install and Configure Camunda",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216432641/Install+and+Configure+Camunda"
+        },
+        {
+          "title": "Authentication Configurations",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/6193153/Authentication+Configurations"
+        },
+        {
+          "title": "Install and Configure Snowflake (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/222986241/Install+and+Configure+Snowflake+Optional"
+        },
+        {
+          "title": "Inferyx Release Notes",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/12058625/Inferyx+Release+Notes"
+        },
+        {
+          "title": "Atlassian Cookies & Tracking Notice",
+          "url": "https://www.atlassian.com/legal/cookies"
+        },
+        {
+          "title": "Master Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298975240/Master+Deployment+Guide"
+        },
+        {
+          "title": "Install and Configure Tomcat 9.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65639/Install+and+Configure+Tomcat+9.0"
+        },
+        {
+          "title": "Install and Configure Java 8 ,11,17,21",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229444/Install+and+Configure+Java+8+11+17+21"
+        },
+        {
+          "title": "Tech Stack",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65559/Tech+Stack"
+        },
+        {
+          "title": "Installation Checklist",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/164053/Installation+Checklist"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/people/6007267edfb0c700692285fb?ref=confluence&src=profilecard"
+        },
+        {
+          "title": "Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/58589185/Project+Setup"
+        },
+        {
+          "title": "Install and Configure Dremio (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/180060163/Install+and+Configure+Dremio+Optional"
+        },
+        {
+          "title": "Inferyx User Manual",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229479/Inferyx+User+Manual"
+        },
+        {
+          "title": "Inferyx Installation Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229472/Inferyx+Installation+Guide"
+        },
+        {
+          "title": "Install and Configure Mssql (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/176324609/Install+and+Configure+Mssql+Optional"
+        },
+        {
+          "title": "Install and Configure JupyterHub 3.1.1",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298844161/Install+and+Configure+JupyterHub+3.1.1"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/templates"
+        },
+        {
+          "title": "Content Comparison",
+          "url": "https://inferyx.atlassian.net/wiki/pages/diffpagesbyversion.action?pageId=298844161&selectedPageVersions=5&selectedPageVersions=6"
+        },
+        {
+          "title": "Install and Configure Mysql",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33287/Install+and+Configure+Mysql"
+        },
+        {
+          "title": "Project Setup  and Docker Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/297467917/Project+Setup+and+Docker+Deployment+Guide"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages"
+        },
+        {
+          "title": "Install and Configure Kafka (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298713149/Install+and+Configure+Kafka+Optional"
+        },
+        {
+          "title": "Install and Configure Tomcat 10",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/441581570/Install+and+Configure+Tomcat+10"
+        },
+        {
+          "title": "Install or Upgrade Mongo 7.x",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/288948225/Install+or+Upgrade+Mongo+7.x"
+        },
+        {
+          "title": "Inferyx Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/43057153/Inferyx+Project+Setup"
+        },
+        {
+          "title": "Install and Configure Python (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33294/Install+and+Configure+Python+Optional"
+        },
+        {
+          "title": "Install and Configure Kubeflow 1.26.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/289800193/Install+and+Configure+Kubeflow+1.26.0"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki"
+        }
+      ]
+    },
+    {
+      "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33294/Install+and+Configure+Python+Optional",
+      "links": [],
+      "related_sections": [
+        {
+          "title": "Install and Configure Mongo",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65646/Install+and+Configure+Mongo"
+        },
+        {
+          "title": "Content Comparison",
+          "url": "https://inferyx.atlassian.net/wiki/pages/diffpagesbyversion.action?pageId=33294&selectedPageVersions=4&selectedPageVersions=5"
+        },
+        {
+          "title": "Install Python 3.8.10",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/176717825/Install+Python+3.8.10"
+        },
+        {
+          "title": "360570",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/360570"
+        },
+        {
+          "title": "Installation and Configure Studio 3T",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/300122113/Installation+and+Configure+Studio+3T"
+        },
+        {
+          "title": "Inferyx Installation Manual / Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/overview?homepageId=163927"
+        },
+        {
+          "title": "Install and Configure Neo4J",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229451/Install+and+Configure+Neo4J"
+        },
+        {
+          "title": "Install and Configure Camunda",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216432641/Install+and+Configure+Camunda"
+        },
+        {
+          "title": "Authentication Configurations",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/6193153/Authentication+Configurations"
+        },
+        {
+          "title": "Install and Configure Snowflake (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/222986241/Install+and+Configure+Snowflake+Optional"
+        },
+        {
+          "title": "Inferyx Release Notes",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/12058625/Inferyx+Release+Notes"
+        },
+        {
+          "title": "Atlassian Cookies & Tracking Notice",
+          "url": "https://www.atlassian.com/legal/cookies"
+        },
+        {
+          "title": "Edit - Inferyx Platform Documentation - 5.x - Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/pages/resumedraft.action?draftId=176226306&draftShareId=975945e6-a1be-4cbe-8284-cf6379f36e63"
+        },
+        {
+          "title": "Master Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298975240/Master+Deployment+Guide"
+        },
+        {
+          "title": "Install and Configure Tomcat 9.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65639/Install+and+Configure+Tomcat+9.0"
+        },
+        {
+          "title": "Install and Configure Java 8 ,11,17,21",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229444/Install+and+Configure+Java+8+11+17+21"
+        },
+        {
+          "title": "Tech Stack",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65559/Tech+Stack"
+        },
+        {
+          "title": "Installation Checklist",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/164053/Installation+Checklist"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/people/6007267edfb0c700692285fb?ref=confluence&src=profilecard"
+        },
+        {
+          "title": "Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/58589185/Project+Setup"
+        },
+        {
+          "title": "Install and Configure Dremio (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/180060163/Install+and+Configure+Dremio+Optional"
+        },
+        {
+          "title": "Inferyx User Manual",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229479/Inferyx+User+Manual"
+        },
+        {
+          "title": "Inferyx Installation Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229472/Inferyx+Installation+Guide"
+        },
+        {
+          "title": "Install and Configure Mssql (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/176324609/Install+and+Configure+Mssql+Optional"
+        },
+        {
+          "title": "Install and Configure JupyterHub 3.1.1",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298844161/Install+and+Configure+JupyterHub+3.1.1"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/templates"
+        },
+        {
+          "title": "Install Python 3.7",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/176226306/Install+Python+3.7"
+        },
+        {
+          "title": "Install and configure Docker Container",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216170501/Install+and+configure+Docker+Container"
+        },
+        {
+          "title": "Install and Configure Mysql",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33287/Install+and+Configure+Mysql"
+        },
+        {
+          "title": "Project Setup  and Docker Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/297467917/Project+Setup+and+Docker+Deployment+Guide"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages"
+        },
+        {
+          "title": "Install and Configure Kafka (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298713149/Install+and+Configure+Kafka+Optional"
+        },
+        {
+          "title": "Install and Configure Tomcat 10",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/441581570/Install+and+Configure+Tomcat+10"
+        },
+        {
+          "title": "Install or Upgrade Mongo 7.x",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/288948225/Install+or+Upgrade+Mongo+7.x"
+        },
+        {
+          "title": "Inferyx Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/43057153/Inferyx+Project+Setup"
+        },
+        {
+          "title": "Install and Configure Python (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33294/Install+and+Configure+Python+Optional"
+        },
+        {
+          "title": "Install and Configure Kubeflow 1.26.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/289800193/Install+and+Configure+Kubeflow+1.26.0"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki"
+        },
+        {
+          "title": "Edit - Inferyx Platform Documentation - 5.x - Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/pages/resumedraft.action?draftId=176717825&draftShareId=578ba3cb-f35e-4b8c-8030-a117b6af30a1"
+        }
+      ]
+    },
+    {
+      "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/176226306/Install+Python+3.7",
+      "links": [],
+      "related_sections": [
+        {
+          "title": "Install and Configure Mongo",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65646/Install+and+Configure+Mongo"
+        },
+        {
+          "title": "Content Comparison",
+          "url": "https://inferyx.atlassian.net/wiki/pages/diffpagesbyversion.action?pageId=176226306&selectedPageVersions=4&selectedPageVersions=5"
+        },
+        {
+          "title": "Install Python 3.8.10",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/176717825/Install+Python+3.8.10"
+        },
+        {
+          "title": "360570",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/360570"
+        },
+        {
+          "title": "Installation and Configure Studio 3T",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/300122113/Installation+and+Configure+Studio+3T"
+        },
+        {
+          "title": "Inferyx Installation Manual / Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/overview?homepageId=163927"
+        },
+        {
+          "title": "Install and Configure Neo4J",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229451/Install+and+Configure+Neo4J"
+        },
+        {
+          "title": "Install and Configure Camunda",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216432641/Install+and+Configure+Camunda"
+        },
+        {
+          "title": "Authentication Configurations",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/6193153/Authentication+Configurations"
+        },
+        {
+          "title": "Install and Configure Snowflake (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/222986241/Install+and+Configure+Snowflake+Optional"
+        },
+        {
+          "title": "Inferyx Release Notes",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/12058625/Inferyx+Release+Notes"
+        },
+        {
+          "title": "Atlassian Cookies & Tracking Notice",
+          "url": "https://www.atlassian.com/legal/cookies"
+        },
+        {
+          "title": "Master Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298975240/Master+Deployment+Guide"
+        },
+        {
+          "title": "Install and Configure Tomcat 9.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65639/Install+and+Configure+Tomcat+9.0"
+        },
+        {
+          "title": "Install and Configure Java 8 ,11,17,21",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229444/Install+and+Configure+Java+8+11+17+21"
+        },
+        {
+          "title": "Tech Stack",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65559/Tech+Stack"
+        },
+        {
+          "title": "Installation Checklist",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/164053/Installation+Checklist"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/people/6007267edfb0c700692285fb?ref=confluence&src=profilecard"
+        },
+        {
+          "title": "Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/58589185/Project+Setup"
+        },
+        {
+          "title": "Install and Configure Dremio (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/180060163/Install+and+Configure+Dremio+Optional"
+        },
+        {
+          "title": "Inferyx User Manual",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229479/Inferyx+User+Manual"
+        },
+        {
+          "title": "Inferyx Installation Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229472/Inferyx+Installation+Guide"
+        },
+        {
+          "title": "Install and Configure Mssql (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/176324609/Install+and+Configure+Mssql+Optional"
+        },
+        {
+          "title": "Install and Configure JupyterHub 3.1.1",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298844161/Install+and+Configure+JupyterHub+3.1.1"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/templates"
+        },
+        {
+          "title": "Install Python 3.7",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/176226306/Install+Python+3.7"
+        },
+        {
+          "title": "Install and configure Docker Container",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216170501/Install+and+configure+Docker+Container"
+        },
+        {
+          "title": "Install and Configure Mysql",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33287/Install+and+Configure+Mysql"
+        },
+        {
+          "title": "Project Setup  and Docker Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/297467917/Project+Setup+and+Docker+Deployment+Guide"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages"
+        },
+        {
+          "title": "Install and Configure Kafka (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298713149/Install+and+Configure+Kafka+Optional"
+        },
+        {
+          "title": "Install and Configure Tomcat 10",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/441581570/Install+and+Configure+Tomcat+10"
+        },
+        {
+          "title": "Install or Upgrade Mongo 7.x",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/288948225/Install+or+Upgrade+Mongo+7.x"
+        },
+        {
+          "title": "Inferyx Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/43057153/Inferyx+Project+Setup"
+        },
+        {
+          "title": "Install and Configure Python (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33294/Install+and+Configure+Python+Optional"
+        },
+        {
+          "title": "Install and Configure Kubeflow 1.26.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/289800193/Install+and+Configure+Kubeflow+1.26.0"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki"
+        }
+      ]
+    },
+    {
+      "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/176717825/Install+Python+3.8.10",
+      "links": [],
+      "related_sections": [
+        {
+          "title": "Install and Configure Mongo",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65646/Install+and+Configure+Mongo"
+        },
+        {
+          "title": "Install Python 3.8.10",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/176717825/Install+Python+3.8.10"
+        },
+        {
+          "title": "360570",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/360570"
+        },
+        {
+          "title": "Installation and Configure Studio 3T",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/300122113/Installation+and+Configure+Studio+3T"
+        },
+        {
+          "title": "Content Comparison",
+          "url": "https://inferyx.atlassian.net/wiki/pages/diffpagesbyversion.action?pageId=176717825&selectedPageVersions=6&selectedPageVersions=7"
+        },
+        {
+          "title": "Inferyx Installation Manual / Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/overview?homepageId=163927"
+        },
+        {
+          "title": "Install and Configure Neo4J",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229451/Install+and+Configure+Neo4J"
+        },
+        {
+          "title": "Install and Configure Camunda",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216432641/Install+and+Configure+Camunda"
+        },
+        {
+          "title": "Authentication Configurations",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/6193153/Authentication+Configurations"
+        },
+        {
+          "title": "Install and Configure Snowflake (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/222986241/Install+and+Configure+Snowflake+Optional"
+        },
+        {
+          "title": "Inferyx Release Notes",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/12058625/Inferyx+Release+Notes"
+        },
+        {
+          "title": "Atlassian Cookies & Tracking Notice",
+          "url": "https://www.atlassian.com/legal/cookies"
+        },
+        {
+          "title": "Master Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298975240/Master+Deployment+Guide"
+        },
+        {
+          "title": "Install and Configure Tomcat 9.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65639/Install+and+Configure+Tomcat+9.0"
+        },
+        {
+          "title": "Install and Configure Java 8 ,11,17,21",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229444/Install+and+Configure+Java+8+11+17+21"
+        },
+        {
+          "title": "Tech Stack",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65559/Tech+Stack"
+        },
+        {
+          "title": "Installation Checklist",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/164053/Installation+Checklist"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/people/6007267edfb0c700692285fb?ref=confluence&src=profilecard"
+        },
+        {
+          "title": "Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/58589185/Project+Setup"
+        },
+        {
+          "title": "Install and Configure Dremio (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/180060163/Install+and+Configure+Dremio+Optional"
+        },
+        {
+          "title": "Inferyx User Manual",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229479/Inferyx+User+Manual"
+        },
+        {
+          "title": "Inferyx Installation Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229472/Inferyx+Installation+Guide"
+        },
+        {
+          "title": "Install and Configure Mssql (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/176324609/Install+and+Configure+Mssql+Optional"
+        },
+        {
+          "title": "Install and Configure JupyterHub 3.1.1",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298844161/Install+and+Configure+JupyterHub+3.1.1"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/templates"
+        },
+        {
+          "title": "Install Python 3.7",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/176226306/Install+Python+3.7"
+        },
+        {
+          "title": "Install and configure Docker Container",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216170501/Install+and+configure+Docker+Container"
+        },
+        {
+          "title": "Install and Configure Mysql",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33287/Install+and+Configure+Mysql"
+        },
+        {
+          "title": "Project Setup  and Docker Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/297467917/Project+Setup+and+Docker+Deployment+Guide"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages"
+        },
+        {
+          "title": "Install and Configure Kafka (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298713149/Install+and+Configure+Kafka+Optional"
+        },
+        {
+          "title": "Install and Configure Tomcat 10",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/441581570/Install+and+Configure+Tomcat+10"
+        },
+        {
+          "title": "Install or Upgrade Mongo 7.x",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/288948225/Install+or+Upgrade+Mongo+7.x"
+        },
+        {
+          "title": "Inferyx Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/43057153/Inferyx+Project+Setup"
+        },
+        {
+          "title": "Install and Configure Python (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33294/Install+and+Configure+Python+Optional"
+        },
+        {
+          "title": "Install and Configure Kubeflow 1.26.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/289800193/Install+and+Configure+Kubeflow+1.26.0"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki"
+        }
+      ]
+    },
+    {
+      "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216170501/Install+and+configure+Docker+Container",
+      "links": [],
+      "related_sections": [
+        {
+          "title": "Install and Configure Mongo",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65646/Install+and+Configure+Mongo"
+        },
+        {
+          "title": "Install and Configure Genai (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216137735/Install+and+Configure+Genai+Optional"
+        },
+        {
+          "title": "Content Comparison",
+          "url": "https://inferyx.atlassian.net/wiki/pages/diffpagesbyversion.action?pageId=216170501&selectedPageVersions=2&selectedPageVersions=3"
+        },
+        {
+          "title": "Install Python 3.8.10",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/176717825/Install+Python+3.8.10"
+        },
+        {
+          "title": "360570",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/360570"
+        },
+        {
+          "title": "Install Platform Python(3.8)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216236033/Install+Platform+Python+3.8"
+        },
+        {
+          "title": "Installation and Configure Studio 3T",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/300122113/Installation+and+Configure+Studio+3T"
+        },
+        {
+          "title": "Inferyx Installation Manual / Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/overview?homepageId=163927"
+        },
+        {
+          "title": "Install and Configure Neo4J",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229451/Install+and+Configure+Neo4J"
+        },
+        {
+          "title": "Install and Configure Camunda",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216432641/Install+and+Configure+Camunda"
+        },
+        {
+          "title": "Authentication Configurations",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/6193153/Authentication+Configurations"
+        },
+        {
+          "title": "Install and Configure Snowflake (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/222986241/Install+and+Configure+Snowflake+Optional"
+        },
+        {
+          "title": "Inferyx Release Notes",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/12058625/Inferyx+Release+Notes"
+        },
+        {
+          "title": "Atlassian Cookies & Tracking Notice",
+          "url": "https://www.atlassian.com/legal/cookies"
+        },
+        {
+          "title": "Master Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298975240/Master+Deployment+Guide"
+        },
+        {
+          "title": "Install and Configure Tomcat 9.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65639/Install+and+Configure+Tomcat+9.0"
+        },
+        {
+          "title": "Install and Configure Java 8 ,11,17,21",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229444/Install+and+Configure+Java+8+11+17+21"
+        },
+        {
+          "title": "Tech Stack",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65559/Tech+Stack"
+        },
+        {
+          "title": "Installation Checklist",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/164053/Installation+Checklist"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/people/6007267edfb0c700692285fb?ref=confluence&src=profilecard"
+        },
+        {
+          "title": "Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/58589185/Project+Setup"
+        },
+        {
+          "title": "Install and Configure Dremio (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/180060163/Install+and+Configure+Dremio+Optional"
+        },
+        {
+          "title": "Install Platform Python(3.9)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216039429/Install+Platform+Python+3.9"
+        },
+        {
+          "title": "Inferyx User Manual",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229479/Inferyx+User+Manual"
+        },
+        {
+          "title": "Inferyx Installation Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229472/Inferyx+Installation+Guide"
+        },
+        {
+          "title": "Install and Configure Mssql (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/176324609/Install+and+Configure+Mssql+Optional"
+        },
+        {
+          "title": "Install and Configure JupyterHub 3.1.1",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298844161/Install+and+Configure+JupyterHub+3.1.1"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/templates"
+        },
+        {
+          "title": "Install Python 3.7",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/176226306/Install+Python+3.7"
+        },
+        {
+          "title": "Install and configure Docker Container",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216170501/Install+and+configure+Docker+Container"
+        },
+        {
+          "title": "Install and Configure Mysql",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33287/Install+and+Configure+Mysql"
+        },
+        {
+          "title": "Project Setup  and Docker Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/297467917/Project+Setup+and+Docker+Deployment+Guide"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages"
+        },
+        {
+          "title": "Install and Configure Kafka (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298713149/Install+and+Configure+Kafka+Optional"
+        },
+        {
+          "title": "Install and Configure Tomcat 10",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/441581570/Install+and+Configure+Tomcat+10"
+        },
+        {
+          "title": "Install or Upgrade Mongo 7.x",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/288948225/Install+or+Upgrade+Mongo+7.x"
+        },
+        {
+          "title": "Inferyx Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/43057153/Inferyx+Project+Setup"
+        },
+        {
+          "title": "Install and Configure Python (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33294/Install+and+Configure+Python+Optional"
+        },
+        {
+          "title": "Install and Configure Kubeflow 1.26.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/289800193/Install+and+Configure+Kubeflow+1.26.0"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki"
+        }
+      ]
+    },
+    {
+      "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216236033/Install+Platform+Python+3.8",
+      "links": [],
+      "related_sections": [
+        {
+          "title": "Install and Configure Mongo",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65646/Install+and+Configure+Mongo"
+        },
+        {
+          "title": "Install and Configure Genai (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216137735/Install+and+Configure+Genai+Optional"
+        },
+        {
+          "title": "Install Python 3.8.10",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/176717825/Install+Python+3.8.10"
+        },
+        {
+          "title": "360570",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/360570"
+        },
+        {
+          "title": "Install Platform Python(3.8)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216236033/Install+Platform+Python+3.8"
+        },
+        {
+          "title": "Installation and Configure Studio 3T",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/300122113/Installation+and+Configure+Studio+3T"
+        },
+        {
+          "title": "Inferyx Installation Manual / Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/overview?homepageId=163927"
+        },
+        {
+          "title": "Install and Configure Neo4J",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229451/Install+and+Configure+Neo4J"
+        },
+        {
+          "title": "Install and Configure Camunda",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216432641/Install+and+Configure+Camunda"
+        },
+        {
+          "title": "Authentication Configurations",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/6193153/Authentication+Configurations"
+        },
+        {
+          "title": "Install and Configure Snowflake (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/222986241/Install+and+Configure+Snowflake+Optional"
+        },
+        {
+          "title": "Inferyx Release Notes",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/12058625/Inferyx+Release+Notes"
+        },
+        {
+          "title": "Atlassian Cookies & Tracking Notice",
+          "url": "https://www.atlassian.com/legal/cookies"
+        },
+        {
+          "title": "Master Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298975240/Master+Deployment+Guide"
+        },
+        {
+          "title": "Install and Configure Tomcat 9.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65639/Install+and+Configure+Tomcat+9.0"
+        },
+        {
+          "title": "Install and Configure Java 8 ,11,17,21",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229444/Install+and+Configure+Java+8+11+17+21"
+        },
+        {
+          "title": "Tech Stack",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65559/Tech+Stack"
+        },
+        {
+          "title": "Installation Checklist",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/164053/Installation+Checklist"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/people/6007267edfb0c700692285fb?ref=confluence&src=profilecard"
+        },
+        {
+          "title": "Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/58589185/Project+Setup"
+        },
+        {
+          "title": "Install and Configure Dremio (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/180060163/Install+and+Configure+Dremio+Optional"
+        },
+        {
+          "title": "Install Platform Python(3.9)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216039429/Install+Platform+Python+3.9"
+        },
+        {
+          "title": "Inferyx User Manual",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229479/Inferyx+User+Manual"
+        },
+        {
+          "title": "Inferyx Installation Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229472/Inferyx+Installation+Guide"
+        },
+        {
+          "title": "Install and Configure Mssql (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/176324609/Install+and+Configure+Mssql+Optional"
+        },
+        {
+          "title": "Install and Configure JupyterHub 3.1.1",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298844161/Install+and+Configure+JupyterHub+3.1.1"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/templates"
+        },
+        {
+          "title": "Content Comparison",
+          "url": "https://inferyx.atlassian.net/wiki/pages/diffpagesbyversion.action?pageId=216236033&selectedPageVersions=5&selectedPageVersions=6"
+        },
+        {
+          "title": "Install Python 3.7",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/176226306/Install+Python+3.7"
+        },
+        {
+          "title": "Install and configure Docker Container",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216170501/Install+and+configure+Docker+Container"
+        },
+        {
+          "title": "Install and Configure Mysql",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33287/Install+and+Configure+Mysql"
+        },
+        {
+          "title": "Project Setup  and Docker Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/297467917/Project+Setup+and+Docker+Deployment+Guide"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages"
+        },
+        {
+          "title": "Install and Configure Kafka (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298713149/Install+and+Configure+Kafka+Optional"
+        },
+        {
+          "title": "Install and Configure Tomcat 10",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/441581570/Install+and+Configure+Tomcat+10"
+        },
+        {
+          "title": "Install or Upgrade Mongo 7.x",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/288948225/Install+or+Upgrade+Mongo+7.x"
+        },
+        {
+          "title": "Inferyx Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/43057153/Inferyx+Project+Setup"
+        },
+        {
+          "title": "Install and Configure Python (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33294/Install+and+Configure+Python+Optional"
+        },
+        {
+          "title": "Install and Configure Kubeflow 1.26.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/289800193/Install+and+Configure+Kubeflow+1.26.0"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki"
+        }
+      ]
+    },
+    {
+      "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216039429/Install+Platform+Python+3.9",
+      "links": [],
+      "related_sections": [
+        {
+          "title": "Install and Configure Mongo",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65646/Install+and+Configure+Mongo"
+        },
+        {
+          "title": "Install and Configure Genai (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216137735/Install+and+Configure+Genai+Optional"
+        },
+        {
+          "title": "Install Python 3.8.10",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/176717825/Install+Python+3.8.10"
+        },
+        {
+          "title": "360570",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/360570"
+        },
+        {
+          "title": "Install Platform Python(3.8)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216236033/Install+Platform+Python+3.8"
+        },
+        {
+          "title": "Installation and Configure Studio 3T",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/300122113/Installation+and+Configure+Studio+3T"
+        },
+        {
+          "title": "Inferyx Installation Manual / Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/overview?homepageId=163927"
+        },
+        {
+          "title": "Install and Configure Neo4J",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229451/Install+and+Configure+Neo4J"
+        },
+        {
+          "title": "Install and Configure Camunda",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216432641/Install+and+Configure+Camunda"
+        },
+        {
+          "title": "Authentication Configurations",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/6193153/Authentication+Configurations"
+        },
+        {
+          "title": "Content Comparison",
+          "url": "https://inferyx.atlassian.net/wiki/pages/diffpagesbyversion.action?pageId=216039429&selectedPageVersions=3&selectedPageVersions=4"
+        },
+        {
+          "title": "Install and Configure Snowflake (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/222986241/Install+and+Configure+Snowflake+Optional"
+        },
+        {
+          "title": "Inferyx Release Notes",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/12058625/Inferyx+Release+Notes"
+        },
+        {
+          "title": "Atlassian Cookies & Tracking Notice",
+          "url": "https://www.atlassian.com/legal/cookies"
+        },
+        {
+          "title": "Master Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298975240/Master+Deployment+Guide"
+        },
+        {
+          "title": "Install and Configure Tomcat 9.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65639/Install+and+Configure+Tomcat+9.0"
+        },
+        {
+          "title": "Install and Configure Java 8 ,11,17,21",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229444/Install+and+Configure+Java+8+11+17+21"
+        },
+        {
+          "title": "Tech Stack",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65559/Tech+Stack"
+        },
+        {
+          "title": "Installation Checklist",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/164053/Installation+Checklist"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/people/6007267edfb0c700692285fb?ref=confluence&src=profilecard"
+        },
+        {
+          "title": "Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/58589185/Project+Setup"
+        },
+        {
+          "title": "Install and Configure Dremio (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/180060163/Install+and+Configure+Dremio+Optional"
+        },
+        {
+          "title": "Install Platform Python(3.9)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216039429/Install+Platform+Python+3.9"
+        },
+        {
+          "title": "Inferyx User Manual",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229479/Inferyx+User+Manual"
+        },
+        {
+          "title": "Inferyx Installation Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229472/Inferyx+Installation+Guide"
+        },
+        {
+          "title": "Install and Configure Mssql (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/176324609/Install+and+Configure+Mssql+Optional"
+        },
+        {
+          "title": "Install and Configure JupyterHub 3.1.1",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298844161/Install+and+Configure+JupyterHub+3.1.1"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/templates"
+        },
+        {
+          "title": "Install Python 3.7",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/176226306/Install+Python+3.7"
+        },
+        {
+          "title": "Install and configure Docker Container",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216170501/Install+and+configure+Docker+Container"
+        },
+        {
+          "title": "Install and Configure Mysql",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33287/Install+and+Configure+Mysql"
+        },
+        {
+          "title": "Project Setup  and Docker Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/297467917/Project+Setup+and+Docker+Deployment+Guide"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages"
+        },
+        {
+          "title": "Install and Configure Kafka (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298713149/Install+and+Configure+Kafka+Optional"
+        },
+        {
+          "title": "Install and Configure Tomcat 10",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/441581570/Install+and+Configure+Tomcat+10"
+        },
+        {
+          "title": "Install or Upgrade Mongo 7.x",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/288948225/Install+or+Upgrade+Mongo+7.x"
+        },
+        {
+          "title": "Inferyx Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/43057153/Inferyx+Project+Setup"
+        },
+        {
+          "title": "Install and Configure Python (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33294/Install+and+Configure+Python+Optional"
+        },
+        {
+          "title": "Install and Configure Kubeflow 1.26.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/289800193/Install+and+Configure+Kubeflow+1.26.0"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki"
+        }
+      ]
+    },
+    {
+      "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216137735/Install+and+Configure+Genai+Optional",
+      "links": [],
+      "related_sections": [
+        {
+          "title": "Install and Configure Mongo",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65646/Install+and+Configure+Mongo"
+        },
+        {
+          "title": "Install and Configure Genai (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216137735/Install+and+Configure+Genai+Optional"
+        },
+        {
+          "title": "Install Python 3.8.10",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/176717825/Install+Python+3.8.10"
+        },
+        {
+          "title": "360570",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/360570"
+        },
+        {
+          "title": "Install Platform Python(3.8)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216236033/Install+Platform+Python+3.8"
+        },
+        {
+          "title": "Installation and Configure Studio 3T",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/300122113/Installation+and+Configure+Studio+3T"
+        },
+        {
+          "title": "Inferyx Installation Manual / Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/overview?homepageId=163927"
+        },
+        {
+          "title": "Install and Configure Neo4J",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229451/Install+and+Configure+Neo4J"
+        },
+        {
+          "title": "Install and Configure Camunda",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216432641/Install+and+Configure+Camunda"
+        },
+        {
+          "title": "Authentication Configurations",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/6193153/Authentication+Configurations"
+        },
+        {
+          "title": "Install and Configure Snowflake (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/222986241/Install+and+Configure+Snowflake+Optional"
+        },
+        {
+          "title": "Inferyx Release Notes",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/12058625/Inferyx+Release+Notes"
+        },
+        {
+          "title": "Atlassian Cookies & Tracking Notice",
+          "url": "https://www.atlassian.com/legal/cookies"
+        },
+        {
+          "title": "Master Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298975240/Master+Deployment+Guide"
+        },
+        {
+          "title": "Install and Configure Tomcat 9.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65639/Install+and+Configure+Tomcat+9.0"
+        },
+        {
+          "title": "Install and Configure Java 8 ,11,17,21",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229444/Install+and+Configure+Java+8+11+17+21"
+        },
+        {
+          "title": "Tech Stack",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65559/Tech+Stack"
+        },
+        {
+          "title": "Installation Checklist",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/164053/Installation+Checklist"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/people/6007267edfb0c700692285fb?ref=confluence&src=profilecard"
+        },
+        {
+          "title": "Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/58589185/Project+Setup"
+        },
+        {
+          "title": "Install and Configure Dremio (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/180060163/Install+and+Configure+Dremio+Optional"
+        },
+        {
+          "title": "Install Platform Python(3.9)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216039429/Install+Platform+Python+3.9"
+        },
+        {
+          "title": "Inferyx User Manual",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229479/Inferyx+User+Manual"
+        },
+        {
+          "title": "Inferyx Installation Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229472/Inferyx+Installation+Guide"
+        },
+        {
+          "title": "Install and Configure Mssql (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/176324609/Install+and+Configure+Mssql+Optional"
+        },
+        {
+          "title": "Install and Configure JupyterHub 3.1.1",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298844161/Install+and+Configure+JupyterHub+3.1.1"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/templates"
+        },
+        {
+          "title": "Install Python 3.7",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/176226306/Install+Python+3.7"
+        },
+        {
+          "title": "Content Comparison",
+          "url": "https://inferyx.atlassian.net/wiki/pages/diffpagesbyversion.action?pageId=216137735&selectedPageVersions=3&selectedPageVersions=4"
+        },
+        {
+          "title": "Install and configure Docker Container",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216170501/Install+and+configure+Docker+Container"
+        },
+        {
+          "title": "Install and Configure Mysql",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33287/Install+and+Configure+Mysql"
+        },
+        {
+          "title": "Project Setup  and Docker Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/297467917/Project+Setup+and+Docker+Deployment+Guide"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages"
+        },
+        {
+          "title": "Install and Configure Kafka (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298713149/Install+and+Configure+Kafka+Optional"
+        },
+        {
+          "title": "Install and Configure Tomcat 10",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/441581570/Install+and+Configure+Tomcat+10"
+        },
+        {
+          "title": "Install or Upgrade Mongo 7.x",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/288948225/Install+or+Upgrade+Mongo+7.x"
+        },
+        {
+          "title": "Inferyx Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/43057153/Inferyx+Project+Setup"
+        },
+        {
+          "title": "Install and Configure Python (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33294/Install+and+Configure+Python+Optional"
+        },
+        {
+          "title": "Install and Configure Kubeflow 1.26.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/289800193/Install+and+Configure+Kubeflow+1.26.0"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki"
+        }
+      ]
+    },
+    {
+      "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/176324609/Install+and+Configure+Mssql+Optional",
+      "links": [],
+      "related_sections": [
+        {
+          "title": "Install and Configure Mongo",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65646/Install+and+Configure+Mongo"
+        },
+        {
+          "title": "360570",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/360570"
+        },
+        {
+          "title": "Installation and Configure Studio 3T",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/300122113/Installation+and+Configure+Studio+3T"
+        },
+        {
+          "title": "Inferyx Installation Manual / Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/overview?homepageId=163927"
+        },
+        {
+          "title": "Install and Configure Neo4J",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229451/Install+and+Configure+Neo4J"
+        },
+        {
+          "title": "Install and Configure Camunda",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216432641/Install+and+Configure+Camunda"
+        },
+        {
+          "title": "Authentication Configurations",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/6193153/Authentication+Configurations"
+        },
+        {
+          "title": "Install and Configure Snowflake (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/222986241/Install+and+Configure+Snowflake+Optional"
+        },
+        {
+          "title": "Inferyx Release Notes",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/12058625/Inferyx+Release+Notes"
+        },
+        {
+          "title": "Atlassian Cookies & Tracking Notice",
+          "url": "https://www.atlassian.com/legal/cookies"
+        },
+        {
+          "title": "Master Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298975240/Master+Deployment+Guide"
+        },
+        {
+          "title": "Install and Configure Tomcat 9.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65639/Install+and+Configure+Tomcat+9.0"
+        },
+        {
+          "title": "Install and Configure Java 8 ,11,17,21",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229444/Install+and+Configure+Java+8+11+17+21"
+        },
+        {
+          "title": "Tech Stack",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65559/Tech+Stack"
+        },
+        {
+          "title": "Installation Checklist",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/164053/Installation+Checklist"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/people/6007267edfb0c700692285fb?ref=confluence&src=profilecard"
+        },
+        {
+          "title": "Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/58589185/Project+Setup"
+        },
+        {
+          "title": "Install and Configure Dremio (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/180060163/Install+and+Configure+Dremio+Optional"
+        },
+        {
+          "title": "Inferyx User Manual",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229479/Inferyx+User+Manual"
+        },
+        {
+          "title": "Inferyx Installation Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229472/Inferyx+Installation+Guide"
+        },
+        {
+          "title": "Install and Configure Mssql (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/176324609/Install+and+Configure+Mssql+Optional"
+        },
+        {
+          "title": "Install and Configure JupyterHub 3.1.1",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298844161/Install+and+Configure+JupyterHub+3.1.1"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/templates"
+        },
+        {
+          "title": "Install and Configure Mysql",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33287/Install+and+Configure+Mysql"
+        },
+        {
+          "title": "Project Setup  and Docker Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/297467917/Project+Setup+and+Docker+Deployment+Guide"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages"
+        },
+        {
+          "title": "Install and Configure Kafka (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298713149/Install+and+Configure+Kafka+Optional"
+        },
+        {
+          "title": "Install and Configure Tomcat 10",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/441581570/Install+and+Configure+Tomcat+10"
+        },
+        {
+          "title": "Install or Upgrade Mongo 7.x",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/288948225/Install+or+Upgrade+Mongo+7.x"
+        },
+        {
+          "title": "Inferyx Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/43057153/Inferyx+Project+Setup"
+        },
+        {
+          "title": "Install and Configure Python (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33294/Install+and+Configure+Python+Optional"
+        },
+        {
+          "title": "Install and Configure Kubeflow 1.26.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/289800193/Install+and+Configure+Kubeflow+1.26.0"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki"
+        }
+      ]
+    },
+    {
+      "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/222986241/Install+and+Configure+Snowflake+Optional",
+      "links": [],
+      "related_sections": [
+        {
+          "title": "Install and Configure Mongo",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65646/Install+and+Configure+Mongo"
+        },
+        {
+          "title": "360570",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/360570"
+        },
+        {
+          "title": "Installation and Configure Studio 3T",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/300122113/Installation+and+Configure+Studio+3T"
+        },
+        {
+          "title": "Inferyx Installation Manual / Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/overview?homepageId=163927"
+        },
+        {
+          "title": "Install and Configure Neo4J",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229451/Install+and+Configure+Neo4J"
+        },
+        {
+          "title": "Install and Configure Camunda",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216432641/Install+and+Configure+Camunda"
+        },
+        {
+          "title": "Authentication Configurations",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/6193153/Authentication+Configurations"
+        },
+        {
+          "title": "Install and Configure Snowflake (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/222986241/Install+and+Configure+Snowflake+Optional"
+        },
+        {
+          "title": "Inferyx Release Notes",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/12058625/Inferyx+Release+Notes"
+        },
+        {
+          "title": "Atlassian Cookies & Tracking Notice",
+          "url": "https://www.atlassian.com/legal/cookies"
+        },
+        {
+          "title": "Master Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298975240/Master+Deployment+Guide"
+        },
+        {
+          "title": "Install and Configure Tomcat 9.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65639/Install+and+Configure+Tomcat+9.0"
+        },
+        {
+          "title": "Install and Configure Java 8 ,11,17,21",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229444/Install+and+Configure+Java+8+11+17+21"
+        },
+        {
+          "title": "Tech Stack",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65559/Tech+Stack"
+        },
+        {
+          "title": "Installation Checklist",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/164053/Installation+Checklist"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/people/6007267edfb0c700692285fb?ref=confluence&src=profilecard"
+        },
+        {
+          "title": "Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/58589185/Project+Setup"
+        },
+        {
+          "title": "Install and Configure Dremio (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/180060163/Install+and+Configure+Dremio+Optional"
+        },
+        {
+          "title": "Inferyx User Manual",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229479/Inferyx+User+Manual"
+        },
+        {
+          "title": "Inferyx Installation Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229472/Inferyx+Installation+Guide"
+        },
+        {
+          "title": "Install and Configure Mssql (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/176324609/Install+and+Configure+Mssql+Optional"
+        },
+        {
+          "title": "Install and Configure JupyterHub 3.1.1",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298844161/Install+and+Configure+JupyterHub+3.1.1"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/templates"
+        },
+        {
+          "title": "Snowflake Trial",
+          "url": "https://signup.snowflake.com/"
+        },
+        {
+          "title": "Install and Configure Mysql",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33287/Install+and+Configure+Mysql"
+        },
+        {
+          "title": "Project Setup  and Docker Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/297467917/Project+Setup+and+Docker+Deployment+Guide"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages"
+        },
+        {
+          "title": "Install and Configure Kafka (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298713149/Install+and+Configure+Kafka+Optional"
+        },
+        {
+          "title": "Install and Configure Tomcat 10",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/441581570/Install+and+Configure+Tomcat+10"
+        },
+        {
+          "title": "Install or Upgrade Mongo 7.x",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/288948225/Install+or+Upgrade+Mongo+7.x"
+        },
+        {
+          "title": "Inferyx Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/43057153/Inferyx+Project+Setup"
+        },
+        {
+          "title": "Install and Configure Python (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33294/Install+and+Configure+Python+Optional"
+        },
+        {
+          "title": "Install and Configure Kubeflow 1.26.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/289800193/Install+and+Configure+Kubeflow+1.26.0"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki"
+        }
+      ]
+    },
+    {
+      "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/180060163/Install+and+Configure+Dremio+Optional",
+      "links": [],
+      "related_sections": [
+        {
+          "title": "Install and Configure Mongo",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65646/Install+and+Configure+Mongo"
+        },
+        {
+          "title": "360570",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/360570"
+        },
+        {
+          "title": "Installation and Configure Studio 3T",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/300122113/Installation+and+Configure+Studio+3T"
+        },
+        {
+          "title": "Inferyx Installation Manual / Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/overview?homepageId=163927"
+        },
+        {
+          "title": "Install and Configure Neo4J",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229451/Install+and+Configure+Neo4J"
+        },
+        {
+          "title": "Install and Configure Camunda",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/216432641/Install+and+Configure+Camunda"
+        },
+        {
+          "title": "Authentication Configurations",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/6193153/Authentication+Configurations"
+        },
+        {
+          "title": "Install and Configure Snowflake (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/222986241/Install+and+Configure+Snowflake+Optional"
+        },
+        {
+          "title": "Inferyx Release Notes",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/12058625/Inferyx+Release+Notes"
+        },
+        {
+          "title": "Atlassian Cookies & Tracking Notice",
+          "url": "https://www.atlassian.com/legal/cookies"
+        },
+        {
+          "title": "Master Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298975240/Master+Deployment+Guide"
+        },
+        {
+          "title": "Install and Configure Tomcat 9.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65639/Install+and+Configure+Tomcat+9.0"
+        },
+        {
+          "title": "Install and Configure Java 8 ,11,17,21",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229444/Install+and+Configure+Java+8+11+17+21"
+        },
+        {
+          "title": "Tech Stack",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/65559/Tech+Stack"
+        },
+        {
+          "title": "Installation Checklist",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/164053/Installation+Checklist"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/people/6007267edfb0c700692285fb?ref=confluence&src=profilecard"
+        },
+        {
+          "title": "Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/58589185/Project+Setup"
+        },
+        {
+          "title": "Install and Configure Dremio (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/180060163/Install+and+Configure+Dremio+Optional"
+        },
+        {
+          "title": "Inferyx User Manual",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229479/Inferyx+User+Manual"
+        },
+        {
+          "title": "Inferyx Installation Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/229472/Inferyx+Installation+Guide"
+        },
+        {
+          "title": "Install and Configure Mssql (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/176324609/Install+and+Configure+Mssql+Optional"
+        },
+        {
+          "title": "Install and Configure JupyterHub 3.1.1",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298844161/Install+and+Configure+JupyterHub+3.1.1"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/templates"
+        },
+        {
+          "title": "Install and Configure Mysql",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33287/Install+and+Configure+Mysql"
+        },
+        {
+          "title": "Project Setup  and Docker Deployment Guide",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/297467917/Project+Setup+and+Docker+Deployment+Guide"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages"
+        },
+        {
+          "title": "Install and Configure Kafka (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/298713149/Install+and+Configure+Kafka+Optional"
+        },
+        {
+          "title": "Install and Configure Tomcat 10",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/441581570/Install+and+Configure+Tomcat+10"
+        },
+        {
+          "title": "Install or Upgrade Mongo 7.x",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/288948225/Install+or+Upgrade+Mongo+7.x"
+        },
+        {
+          "title": "Inferyx Project Setup",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/43057153/Inferyx+Project+Setup"
+        },
+        {
+          "title": "Install and Configure Python (Optional)",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/33294/Install+and+Configure+Python+Optional"
+        },
+        {
+          "title": "Install and Configure Kubeflow 1.26.0",
+          "url": "https://inferyx.atlassian.net/wiki/spaces/IID/pages/289800193/Install+and+Configure+Kubeflow+1.26.0"
+        },
+        {
+          "title": "Confluence",
+          "url": "https://inferyx.atlassian.net/wiki"
+        }
+      ]
+    }
+  ]
+}
